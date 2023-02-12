@@ -1,5 +1,5 @@
 # EECS348_Lab3
 Lab 3 for Software Engineering I
-![Screenshot (11)](https://user-images.githubusercontent.com/112735843/218336282-3208ce69-dcbe-48da-86a9-e01a687f4ec4.png)
-![Screenshot (12)](https://user-images.githubusercontent.com/112735843/218336286-abbcf544-fd5b-41fb-baab-1ff0059c890f.png)
-![Screenshot (13)](https://user-images.githubusercontent.com/112735843/218336290-5c9b934c-9134-44d8-ba1f-6317aa6248bd.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/112735843/218336308-2cde23c8-916d-48de-a631-c1ec95a4e5f5.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/112735843/218336310-13e49680-1825-4e14-aa5b-f21ad1990fc2.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/112735843/218336314-7e02d496-5b23-4b97-9c57-9d494c55a74d.png)
